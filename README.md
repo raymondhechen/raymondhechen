@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Raymond!</h1>
+<h3>Hi 👋, I'm Raymond!</h3>
 
-<p align="center">
+<p>I'm a student at Duke University studying computer science and statistics. Find me in the links below!</P>
+
+<p>
+  <a href="https://www.raymondhechen.com/" target="blank">🏠</a> 
 <a href="https://twitter.com/raymondhechen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="raymondhechen" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/raymondhechen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raymondhechen" height="20" width="20" /></a>
 <a href="https://instagram.com/raymondhechen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raymondhechen" height="20" width="20" /></a>
