@@ -1,6 +1,6 @@
 <h3>Hi 👋, I'm Raymond!</h3>
 
-<p>I'm a student at Duke University studying computer science and statistics. Find me in the links below!</P>
+<p>I'm a junior at Duke University studying computer science and statistics. Find me in the links below!</P>
 
 <p>
   <a href="https://www.raymondhechen.com/" target="blank">🏠</a> 
