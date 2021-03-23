@@ -1,6 +1,6 @@
 <h3>Hi 👋, I'm Raymond!</h3>
 
-<p>I’m a junior @ Duke studying computer science and statistics. I'm currently learning to center a div @ <a href="https://www.facebook.com/">Facebook</a> and incoming @ <a href="https://www.anduril.com/">Anduril</a>. I was previously @ <a href="https://www.pendo.io/">Pendo</a> working on Adopt. I'm building <a href="http://scope.so/">Scope</a> in my free time. Find me <a href="https://twitter.com/raymondhechen">@raymondhechen</a>!</p>
+<p>I’m a junior @ <a href="http://duke.edu/">Duke</a> studying computer science and statistics. I'm currently learning to center a div @ <a href="https://www.facebook.com/">Facebook</a> and incoming @ <a href="https://www.anduril.com/">Anduril</a>. I was previously @ <a href="https://www.pendo.io/">Pendo</a> working on Adopt. I'm building <a href="http://scope.so/">Scope</a> in my free time. Find me <a href="https://twitter.com/raymondhechen">@raymondhechen</a>!</p>
 
 <!--
 **raymondhechen/raymondhechen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
